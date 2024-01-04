@@ -1,1 +1,1 @@
-# LAB02-HTML-CSS
+# LAB-CSS-Git/LAB02-Animated Product Card
